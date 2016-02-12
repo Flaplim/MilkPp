@@ -1,0 +1,18 @@
+[
+{
+  "modid": "milkpp",
+  "name": "Milk++",
+  "description": "Adding some milk bottles with flavours and status effects.",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "url": "http://flaplim.github.io/",
+  "updateUrl": "",
+  "authorList": ["Flaplim"],
+  "credits": "Created By Flaplim",
+  "logoFile": "/milkpp/logo/milkpp-logo.png",
+  "screenshots": [],
+  "requiredMods": ["Forge"],
+  "dependencies": [],
+  "useDependencyInformation": true
+}
+]

@@ -1,0 +1,6 @@
+item.milkpp.milkBottle.name=White Milk
+item.milkpp.strawberry_milkBottle.name=Strawberry Flavored Milk
+item.milkpp.banana_milkBottle.name=Banana Flavored Milk
+item.milkpp.chocolate_milkBottle.name=Chocolate Milk
+
+itemGroup.milkpp=Milk++
