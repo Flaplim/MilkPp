@@ -63,7 +63,7 @@ public class ItemBottleMilk extends ItemPotion {
 
     @Override
     public String getItemStackDisplayName(ItemStack stack) {
-        return ("" + StatCollector.translateToLocal(this.getUnlocalizedNameInefficiently(stack) + ".name")).trim();
+        return (StatCollector.translateToLocal(this.getUnlocalizedNameInefficiently(stack) + ".name")).trim();
     }
 
     @Override
